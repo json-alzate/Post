@@ -68,7 +68,7 @@ El valor de *`"configurations"`* queda asi:
 ```
 
 En todo caso el archivo angular.json final:
-[angular.json](https://www.example.com)
+[angular.json](https://github.com/json-alzate/Tutoriales/blob/master/files/1/angular.json)
 
 ## 3- Compilar
 Antes de compilar la aplicación de Ionic, tengamos en cuenta que para compilar en Angular por defecto se utiliza:
@@ -104,7 +104,7 @@ ionic serve -- -c=staging
 ```
 
 ## 5- Archivo
-[angular.json](https://www.jheison.com)
+[angular.json](https://github.com/json-alzate/Tutoriales/blob/master/files/1/angular.json)
 
 ## 6- Sobre mi
 Soy [Json Alzate](https://www.jheison.com), si te ha servido regálame una estrella.
