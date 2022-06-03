@@ -107,6 +107,6 @@ ionic serve -- -c=staging
 [angular.json](https://github.com/json-alzate/Tutoriales/blob/master/files/1/angular.json)
 
 ## 6- Sobre mi
-Soy [Json Alzate](https://www.jheison.com), si te ha servido regálame una estrella.
+Soy [Json Alzate](https://www.jheison.com), si te ha gustado regálame una estrella.
 
 Si te gusta compartir tu código, dame una mano en el proyecto de [ChessColate](https://github.com/json-alzate/ChessColate) :).
